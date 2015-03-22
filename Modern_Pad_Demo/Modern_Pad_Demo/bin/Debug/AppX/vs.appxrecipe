@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERIC-IDEAPAD</Machine>
+    <WindowsUser>Eric</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>996eea8d-dfac-48c0-9be3-f9cbd4ba2cc4</PackageIdentityName>
+    <IntermediateOutputPath>E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5A008EA4D25F379E26C992E0A7C489E0F022AAA21FDC740500AC757BE8B07327</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>996eea8d-dfac-48c0-9be3-f9cbd4ba2cc4_1.0.0.0_neutral__0b9t7erj4py54</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>996eea8d-dfac-48c0-9be3-f9cbd4ba2cc4_0b9t7erj4py54!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>996eea8d-dfac-48c0-9be3-f9cbd4ba2cc4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Eric</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-22T07:03:28.565</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\Modern_Pad_Demo.exe">
+      <PackagePath>Modern_Pad_Demo.exe</PackagePath>
+      <Modified>2015-03-22T07:04:25.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:00:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-22T07:03:27.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-22T07:04:24.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\Modern_Pad_Demo.xr.xml">
+      <PackagePath>Modern_Pad_Demo.xr.xml</PackagePath>
+      <Modified>2015-03-22T07:04:24.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-22T07:03:28.263</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

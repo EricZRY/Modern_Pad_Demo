@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERIC-IDEAPAD</Machine>
+    <WindowsUser>Eric</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>996eea8d-dfac-48c0-9be3-f9cbd4ba2cc4</PackageIdentityName>
+    <IntermediateOutputPath>E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\Modern_Pad_Demo.exe">
+      <PackagePath>Modern_Pad_Demo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\Modern_Pad_Demo.xr.xml">
+      <PackagePath>Modern_Pad_Demo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\FILE\Documents\GitHub\Modern_Pad_Demo\Modern_Pad_Demo\Modern_Pad_Demo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
